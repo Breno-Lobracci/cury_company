@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon = '📊'
 )
 
-# image_path = 'C:/Users/Breno/Documents/Repos/analises_de_dados_python/projeto_ftc/'
+
 image = Image.open ('logo.png')
 st.sidebar.image(image, width = 120)
 
